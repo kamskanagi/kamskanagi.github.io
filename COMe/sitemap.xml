@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://docs.ipi.wiki/ava/CarrierIntroduction.html</loc>
+    
+    <lastmod>2021-09-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://docs.ipi.wiki/ava/ModuleIntroduction.html</loc>
     
     <lastmod>2021-09-16</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://docs.ipi.wiki/ava/UserInterfaces.html</loc>
-    
-    <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://docs.ipi.wiki/ava/CarrierIntroduction.html</loc>
     
     <lastmod>2021-09-16</lastmod>
     
