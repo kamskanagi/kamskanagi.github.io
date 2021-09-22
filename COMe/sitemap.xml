@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://docs.ipi.wiki/ava/edk2-firmware-update.html</loc>
+    <loc>https://docs.ipi.wiki/ava/CarrierIntroduction.html</loc>
     
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2021-09-22</lastmod>
     
   </url>
   
   <url>
     <loc>https://docs.ipi.wiki/ava/CentOSInstallation.html</loc>
     
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://docs.ipi.wiki/ava/YoctoInstallation.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://docs.ipi.wiki/ava/edk2-firmware-update.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://docs.ipi.wiki/ava/ModuleIntroduction.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://docs.ipi.wiki/ava/UserInterfaces.html</loc>
+    
+    <lastmod>2021-09-22</lastmod>
     
   </url>
   
@@ -23,35 +51,7 @@
   </url>
   
   <url>
-    <loc>https://docs.ipi.wiki/ava/YoctoInstallation.html</loc>
-    
-    <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://docs.ipi.wiki/ava/Unboxing.html</loc>
-    
-    <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://docs.ipi.wiki/ava/UserInterfaces.html</loc>
-    
-    <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://docs.ipi.wiki/ava/CarrierIntroduction.html</loc>
-    
-    <lastmod>2021-09-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://docs.ipi.wiki/ava/ModuleIntroduction.html</loc>
     
     <lastmod>2021-09-16</lastmod>
     
@@ -179,7 +179,7 @@
 
   <url>
     <loc>https://docs.ipi.wiki/</loc>
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2021-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
