@@ -311,9 +311,11 @@ nav ul li a{
 <script>
 
 $(document).ready(function() {
-  if (window.location.href.indexOf('https://www.ipi.wiki/pages/wiki-new')) {
+  if (window.location.href.indexOf('https://www.ipi.wiki/pages/wiki-new') === true) {
     //Hide the element.
     jQuery('.mainnav').hide();
+  }else{
+      jQuery('.mainnav').show();
   }
   });
 
