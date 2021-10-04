@@ -308,12 +308,17 @@ nav ul li a{
 }
 
 </style>
+<script>
+document.ready(function() {
+  if (window.location.href.indexOf('/my/url')) {
+    //Hide the element.
+    jQuery('.mainnav').hide();
+  }
+});
 
-
-
-
+</script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-<nav>
+<nav class = "mainnav">
          <div class="logo">
           <img src="https://xfii.b-cdn.net/uploads/i-pi-smarc/5ieu2go.jpg" class="img-fluid" style="height:50px; width: 50px; position:relative; margin-left: 30px;/* display: inline-block; */" alt="">
          </div>
